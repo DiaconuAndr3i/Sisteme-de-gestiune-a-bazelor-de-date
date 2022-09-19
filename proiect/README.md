@@ -1,4 +1,4 @@
-# SGBD - Companie inchirieri automobile
+# SGBD - Companie inchirieri automobile :blush:
 
 <h2>ERD</h2>
 <img src="erd.png" alt="ERD">
